@@ -1,0 +1,618 @@
+ -- listening for messages in port 9003
+ -- connecting to host 192.168.2.128
+nil
+------------------------------
+msgID: 1	Source: 21	Target: 20 Port: 9003
+d8:	34	0	0	0
+d16:	496	0	0	21
+d32:	0	0
+gateway_time:	1499276237664.4
+nil
+------------------------------
+msgID: 1	Source: 22	Target: 20 Port: 9003
+d8:	34	0	0	0
+d16:	501	0	0	22
+d32:	0	0
+gateway_time:	1499276237749.6
+nil
+------------------------------
+msgID: 1	Source: 23	Target: 20 Port: 9003
+d8:	34	0	0	0
+d16:	520	0	0	23
+d32:	0	0
+gateway_time:	1499276237911.5
+nil
+------------------------------
+msgID: 1	Source: 24	Target: 20 Port: 9003
+d8:	34	0	0	0
+d16:	502	0	0	24
+d32:	0	0
+gateway_time:	1499276238111.7
+nil
+------------------------------
+msgID: 1	Source: 25	Target: 20 Port: 9003
+d8:	34	0	0	0
+d16:	507	0	0	25
+d32:	0	0
+gateway_time:	1499276238259.9
+nil
+------------------------------
+msgID: 1	Source: 26	Target: 20 Port: 9003
+d8:	34	0	0	0
+d16:	507	0	0	26
+d32:	0	0
+gateway_time:	1499276238455.6
+nil
+------------------------------
+msgID: 1	Source: 27	Target: 20 Port: 9003
+d8:	34	0	0	0
+d16:	509	0	0	27
+d32:	0	0
+gateway_time:	1499276238594.1
+nil
+------------------------------
+msgID: 1	Source: 28	Target: 20 Port: 9003
+d8:	34	0	0	0
+d16:	512	0	0	28
+d32:	0	0
+gateway_time:	1499276238775.9
+nil
+------------------------------
+msgID: 1	Source: 29	Target: 20 Port: 9003
+d8:	34	0	0	0
+d16:	518	0	0	29
+d32:	0	0
+gateway_time:	1499276238904.7
+nil
+------------------------------
+msgID: 2	Source: 21	Target: 20 Port: 9003
+d8:	22	0	0	0
+d16:	1006	0	0	21
+d32:	0	0
+gateway_time:	1499276240600.7
+nil
+------------------------------
+msgID: 2	Source: 22	Target: 20 Port: 9003
+d8:	22	0	0	0
+d16:	1004	0	0	22
+d32:	0	0
+gateway_time:	1499276240726.4
+nil
+------------------------------
+msgID: 2	Source: 23	Target: 20 Port: 9003
+d8:	22	0	0	0
+d16:	1013	0	0	23
+d32:	0	0
+gateway_time:	1499276240886.3
+nil
+------------------------------
+msgID: 2	Source: 24	Target: 20 Port: 9003
+d8:	22	0	0	0
+d16:	998	0	0	24
+d32:	0	0
+gateway_time:	1499276241090.5
+nil
+------------------------------
+msgID: 2	Source: 25	Target: 20 Port: 9003
+d8:	22	0	0	0
+d16:	992	0	0	25
+d32:	0	0
+gateway_time:	1499276241240
+nil
+------------------------------
+msgID: 2	Source: 26	Target: 20 Port: 9003
+d8:	22	0	0	0
+d16:	1004	0	0	26
+d32:	0	0
+gateway_time:	1499276241431
+nil
+------------------------------
+msgID: 2	Source: 27	Target: 20 Port: 9003
+d8:	22	0	0	0
+d16:	1000	0	0	27
+d32:	0	0
+gateway_time:	1499276241574.7
+nil
+------------------------------
+msgID: 2	Source: 28	Target: 20 Port: 9003
+d8:	22	0	0	0
+d16:	1006	0	0	28
+d32:	0	0
+gateway_time:	1499276241755.5
+nil
+------------------------------
+msgID: 2	Source: 29	Target: 20 Port: 9003
+d8:	22	0	0	0
+d16:	1010	0	0	29
+d32:	0	0
+gateway_time:	1499276241894.4
+nil
+------------------------------
+msgID: 1	Source: 21	Target: 20 Port: 9003
+d8:	35	0	0	0
+d16:	496	0	0	21
+d32:	0	0
+gateway_time:	1499276242505.7
+nil
+------------------------------
+msgID: 1	Source: 22	Target: 20 Port: 9003
+d8:	35	0	0	0
+d16:	501	0	0	22
+d32:	0	0
+gateway_time:	1499276242630
+nil
+------------------------------
+msgID: 1	Source: 23	Target: 20 Port: 9003
+d8:	35	0	0	0
+d16:	521	0	0	23
+d32:	0	0
+gateway_time:	1499276242795
+nil
+------------------------------
+msgID: 1	Source: 24	Target: 20 Port: 9003
+d8:	35	0	0	0
+d16:	502	0	0	24
+d32:	0	0
+gateway_time:	1499276242994.4
+nil
+------------------------------
+msgID: 1	Source: 25	Target: 20 Port: 9003
+d8:	35	0	0	0
+d16:	507	0	0	25
+d32:	0	0
+gateway_time:	1499276243144.5
+nil
+------------------------------
+msgID: 1	Source: 26	Target: 20 Port: 9003
+d8:	35	0	0	0
+d16:	507	0	0	26
+d32:	0	0
+gateway_time:	1499276243335.3
+nil
+------------------------------
+msgID: 1	Source: 27	Target: 20 Port: 9003
+d8:	35	0	0	0
+d16:	509	0	0	27
+d32:	0	0
+gateway_time:	1499276243410.5
+nil
+------------------------------
+msgID: 1	Source: 28	Target: 20 Port: 9003
+d8:	35	0	0	0
+d16:	512	0	0	28
+d32:	0	0
+gateway_time:	1499276243655.4
+nil
+------------------------------
+msgID: 1	Source: 29	Target: 20 Port: 9003
+d8:	35	0	0	0
+d16:	518	0	0	29
+d32:	0	0
+gateway_time:	1499276243784
+nil
+------------------------------
+msgID: 1	Source: 21	Target: 20 Port: 9003
+d8:	36	0	0	0
+d16:	496	0	0	21
+d32:	0	0
+gateway_time:	1499276247384
+nil
+------------------------------
+msgID: 1	Source: 22	Target: 20 Port: 9003
+d8:	36	0	0	0
+d16:	501	0	0	22
+d32:	0	0
+gateway_time:	1499276247514.2
+nil
+------------------------------
+msgID: 1	Source: 23	Target: 20 Port: 9003
+d8:	36	0	0	0
+d16:	522	0	0	23
+d32:	0	0
+gateway_time:	1499276247681.6
+nil
+------------------------------
+msgID: 1	Source: 24	Target: 20 Port: 9003
+d8:	36	0	0	0
+d16:	503	0	0	24
+d32:	0	0
+gateway_time:	1499276247875.5
+nil
+------------------------------
+msgID: 1	Source: 25	Target: 20 Port: 9003
+d8:	36	0	0	0
+d16:	507	0	0	25
+d32:	0	0
+gateway_time:	1499276248029
+nil
+------------------------------
+msgID: 1	Source: 26	Target: 20 Port: 9003
+d8:	36	0	0	0
+d16:	507	0	0	26
+d32:	0	0
+gateway_time:	1499276248220
+nil
+------------------------------
+msgID: 2	Source: 21	Target: 20 Port: 9003
+d8:	23	0	0	0
+d16:	1006	0	0	21
+d32:	0	0
+gateway_time:	1499276248409.2
+nil
+------------------------------
+msgID: 1	Source: 27	Target: 20 Port: 9003
+d8:	36	0	0	0
+d16:	509	0	0	27
+d32:	0	0
+gateway_time:	1499276248484.5
+nil
+------------------------------
+msgID: 2	Source: 22	Target: 20 Port: 9003
+d8:	23	0	0	0
+d16:	1004	0	0	22
+d32:	0	0
+gateway_time:	1499276248559.5
+nil
+------------------------------
+msgID: 1	Source: 28	Target: 20 Port: 9003
+d8:	36	0	0	0
+d16:	512	0	0	28
+d32:	0	0
+gateway_time:	1499276248634.9
+nil
+------------------------------
+msgID: 1	Source: 29	Target: 20 Port: 9003
+d8:	36	0	0	0
+d16:	518	0	0	29
+d32:	0	0
+gateway_time:	1499276248713.9
+nil
+------------------------------
+msgID: 2	Source: 23	Target: 20 Port: 9003
+d8:	23	0	0	0
+d16:	1013	0	0	23
+d32:	0	0
+gateway_time:	1499276248788.8
+nil
+------------------------------
+msgID: 2	Source: 24	Target: 20 Port: 9003
+d8:	23	0	0	0
+d16:	999	0	0	24
+d32:	0	0
+gateway_time:	1499276248899
+nil
+------------------------------
+msgID: 2	Source: 25	Target: 20 Port: 9003
+d8:	23	0	0	0
+d16:	992	0	0	25
+d32:	0	0
+gateway_time:	1499276249129.1
+nil
+------------------------------
+msgID: 2	Source: 26	Target: 20 Port: 9003
+d8:	23	0	0	0
+d16:	1004	0	0	26
+d32:	0	0
+gateway_time:	1499276249244.6
+nil
+------------------------------
+msgID: 2	Source: 27	Target: 20 Port: 9003
+d8:	23	0	0	0
+d16:	1000	0	0	27
+d32:	0	0
+gateway_time:	1499276249389.8
+nil
+------------------------------
+msgID: 2	Source: 28	Target: 20 Port: 9003
+d8:	23	0	0	0
+d16:	1005	0	0	28
+d32:	0	0
+gateway_time:	1499276249559.7
+nil
+------------------------------
+msgID: 2	Source: 29	Target: 20 Port: 9003
+d8:	23	0	0	0
+d16:	1011	0	0	29
+d32:	0	0
+gateway_time:	1499276249700.8
+nil
+------------------------------
+msgID: 1	Source: 21	Target: 20 Port: 9003
+d8:	37	0	0	0
+d16:	496	0	0	21
+d32:	0	0
+gateway_time:	1499276252269.9
+nil
+------------------------------
+msgID: 1	Source: 22	Target: 20 Port: 9003
+d8:	37	0	0	0
+d16:	501	0	0	22
+d32:	0	0
+gateway_time:	1499276252398.1
+nil
+------------------------------
+msgID: 1	Source: 23	Target: 20 Port: 9003
+d8:	37	0	0	0
+d16:	523	0	0	23
+d32:	0	0
+gateway_time:	1499276252554.6
+nil
+------------------------------
+msgID: 1	Source: 24	Target: 20 Port: 9003
+d8:	37	0	0	0
+d16:	503	0	0	24
+d32:	0	0
+gateway_time:	1499276252759.6
+nil
+------------------------------
+msgID: 1	Source: 25	Target: 20 Port: 9003
+d8:	37	0	0	0
+d16:	507	0	0	25
+d32:	0	0
+gateway_time:	1499276252914.4
+nil
+------------------------------
+msgID: 1	Source: 26	Target: 20 Port: 9003
+d8:	37	0	0	0
+d16:	507	0	0	26
+d32:	0	0
+gateway_time:	1499276253174.6
+nil
+------------------------------
+msgID: 1	Source: 27	Target: 20 Port: 9003
+d8:	37	0	0	0
+d16:	509	0	0	27
+d32:	0	0
+gateway_time:	1499276253249.2
+nil
+------------------------------
+msgID: 1	Source: 28	Target: 20 Port: 9003
+d8:	37	0	0	0
+d16:	512	0	0	28
+d32:	0	0
+gateway_time:	1499276253435.2
+nil
+------------------------------
+msgID: 1	Source: 29	Target: 20 Port: 9003
+d8:	37	0	0	0
+d16:	518	0	0	29
+d32:	0	0
+gateway_time:	1499276253700.6
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+nil
+------------------------------
+msgID: 1	Source: 21	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	496	0	0	21
+d32:	0	0
+gateway_time:	1499276268207.8
+nil
+------------------------------
+msgID: 2	Source: 21	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	1006	0	0	21
+d32:	0	0
+gateway_time:	1499276268283.4
+nil
+------------------------------
+msgID: 1	Source: 22	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	501	0	0	22
+d32:	0	0
+gateway_time:	1499276268362.3
+nil
+------------------------------
+msgID: 2	Source: 22	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	1004	0	0	22
+d32:	0	0
+gateway_time:	1499276268436.6
+nil
+------------------------------
+msgID: 1	Source: 23	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	525	0	0	23
+d32:	0	0
+gateway_time:	1499276268511.7
+nil
+------------------------------
+msgID: 2	Source: 23	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	1013	0	0	23
+d32:	0	0
+gateway_time:	1499276268588.6
+nil
+------------------------------
+msgID: 1	Source: 24	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	503	0	0	24
+d32:	0	0
+gateway_time:	1499276268697.1
+nil
+------------------------------
+msgID: 2	Source: 24	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	999	0	0	24
+d32:	0	0
+gateway_time:	1499276268892.7
+nil
+------------------------------
+msgID: 1	Source: 25	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	508	0	0	25
+d32:	0	0
+gateway_time:	1499276268992.5
+nil
+------------------------------
+msgID: 2	Source: 25	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	992	0	0	25
+d32:	0	0
+gateway_time:	1499276269092.3
+nil
+------------------------------
+msgID: 1	Source: 26	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	507	0	0	26
+d32:	0	0
+gateway_time:	1499276269352.4
+nil
+------------------------------
+msgID: 2	Source: 26	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	1004	0	0	26
+d32:	0	0
+gateway_time:	1499276269427.3
+nil
+------------------------------
+msgID: 1	Source: 27	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	509	0	0	27
+d32:	0	0
+gateway_time:	1499276269551.4
+nil
+------------------------------
+msgID: 2	Source: 27	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	1000	0	0	27
+d32:	0	0
+gateway_time:	1499276269627.4
+nil
+------------------------------
+msgID: 1	Source: 28	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	512	0	0	28
+d32:	0	0
+gateway_time:	1499276269707.4
+nil
+------------------------------
+msgID: 2	Source: 28	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	1005	0	0	28
+d32:	0	0
+gateway_time:	1499276269792.6
+nil
+------------------------------
+msgID: 1	Source: 29	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	518	0	0	29
+d32:	0	0
+gateway_time:	1499276269892.5
+nil
+------------------------------
+msgID: 2	Source: 29	Target: 20 Port: 9003
+d8:	1	0	0	0
+d16:	1010	0	0	29
+d32:	0	0
+gateway_time:	1499276269992.6
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM

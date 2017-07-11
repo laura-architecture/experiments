@@ -1,0 +1,809 @@
+ -- listening for messages in port 9002
+ -- connecting to host 192.168.2.128
+nil
+------------------------------
+msgID: 2	Source: 11	Target: 10 Port: 9002
+d8:	4	0	0	0
+d16:	1162	0	0	11
+d32:	0	0
+gateway_time:	1499277871840.6
+nil
+------------------------------
+msgID: 2	Source: 12	Target: 10 Port: 9002
+d8:	4	0	0	0
+d16:	1220	0	0	12
+d32:	0	0
+gateway_time:	1499277871997.7
+nil
+------------------------------
+msgID: 2	Source: 13	Target: 10 Port: 9002
+d8:	4	0	0	0
+d16:	1006	0	0	13
+d32:	0	0
+gateway_time:	1499277872132.8
+nil
+------------------------------
+msgID: 2	Source: 14	Target: 10 Port: 9002
+d8:	4	0	0	0
+d16:	629	0	0	14
+d32:	0	0
+gateway_time:	1499277872332.9
+nil
+------------------------------
+msgID: 2	Source: 15	Target: 10 Port: 9002
+d8:	4	0	0	0
+d16:	102	0	0	15
+d32:	0	0
+gateway_time:	1499277872447.3
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	6	0	0	0
+d16:	6791	0	0	11
+d32:	0	0
+gateway_time:	1499277872972.3
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	6	0	0	0
+d16:	6978	0	0	12
+d32:	0	0
+gateway_time:	1499277873117.1
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	6	0	0	0
+d16:	6602	0	0	13
+d32:	0	0
+gateway_time:	1499277873293.1
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	6	0	0	0
+d16:	6479	0	0	14
+d32:	0	0
+gateway_time:	1499277873487.5
+nil
+------------------------------
+msgID: 1	Source: 15	Target: 10 Port: 9002
+d8:	6	0	0	0
+d16:	6408	0	0	15
+d32:	0	0
+gateway_time:	1499277873587.4
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	7	0	0	0
+d16:	6790	0	0	11
+d32:	0	0
+gateway_time:	1499277877846.9
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	7	0	0	0
+d16:	6970	0	0	12
+d32:	0	0
+gateway_time:	1499277877992.2
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	7	0	0	0
+d16:	6600	0	0	13
+d32:	0	0
+gateway_time:	1499277878177.2
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	7	0	0	0
+d16:	6475	0	0	14
+d32:	0	0
+gateway_time:	1499277878367.2
+nil
+------------------------------
+msgID: 1	Source: 15	Target: 10 Port: 9002
+d8:	7	0	0	0
+d16:	6409	0	0	15
+d32:	0	0
+gateway_time:	1499277878486.9
+nil
+------------------------------
+msgID: 2	Source: 11	Target: 10 Port: 9002
+d8:	5	0	0	0
+d16:	1162	0	0	11
+d32:	0	0
+gateway_time:	1499277879612.7
+nil
+------------------------------
+msgID: 2	Source: 12	Target: 10 Port: 9002
+d8:	5	0	0	0
+d16:	1222	0	0	12
+d32:	0	0
+gateway_time:	1499277879806.9
+nil
+------------------------------
+msgID: 2	Source: 13	Target: 10 Port: 9002
+d8:	5	0	0	0
+d16:	1016	0	0	13
+d32:	0	0
+gateway_time:	1499277879962.2
+nil
+------------------------------
+msgID: 2	Source: 14	Target: 10 Port: 9002
+d8:	5	0	0	0
+d16:	644	0	0	14
+d32:	0	0
+gateway_time:	1499277880142.7
+nil
+------------------------------
+msgID: 2	Source: 15	Target: 10 Port: 9002
+d8:	5	0	0	0
+d16:	102	0	0	15
+d32:	0	0
+gateway_time:	1499277880262
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	8	0	0	0
+d16:	6786	0	0	11
+d32:	0	0
+gateway_time:	1499277882731.4
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	8	0	0	0
+d16:	6965	0	0	12
+d32:	0	0
+gateway_time:	1499277882882
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	8	0	0	0
+d16:	6591	0	0	13
+d32:	0	0
+gateway_time:	1499277883061.7
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	8	0	0	0
+d16:	6472	0	0	14
+d32:	0	0
+gateway_time:	1499277883251.8
+nil
+------------------------------
+msgID: 1	Source: 15	Target: 10 Port: 9002
+d8:	8	0	0	0
+d16:	6408	0	0	15
+d32:	0	0
+gateway_time:	1499277883372.3
+nil
+------------------------------
+msgID: 2	Source: 11	Target: 10 Port: 9002
+d8:	6	0	0	0
+d16:	1180	0	0	11
+d32:	0	0
+gateway_time:	1499277887437
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	9	0	0	0
+d16:	6782	0	0	11
+d32:	0	0
+gateway_time:	1499277887622.2
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	9	0	0	0
+d16:	6961	0	0	12
+d32:	0	0
+gateway_time:	1499277887727.9
+nil
+------------------------------
+msgID: 2	Source: 13	Target: 10 Port: 9002
+d8:	6	0	0	0
+d16:	1073	0	0	13
+d32:	0	0
+gateway_time:	1499277887851.9
+nil
+------------------------------
+msgID: 2	Source: 14	Target: 10 Port: 9002
+d8:	6	0	0	0
+d16:	717	0	0	14
+d32:	0	0
+gateway_time:	1499277888037.6
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	9	0	0	0
+d16:	6472	0	0	14
+d32:	0	0
+gateway_time:	1499277888217
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	10	0	0	0
+d16:	6782	0	0	11
+d32:	0	0
+gateway_time:	1499277892501.5
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	10	0	0	0
+d16:	6964	0	0	12
+d32:	0	0
+gateway_time:	1499277892646.2
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	10	0	0	0
+d16:	6588	0	0	13
+d32:	0	0
+gateway_time:	1499277892816.1
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	10	0	0	0
+d16:	6473	0	0	14
+d32:	0	0
+gateway_time:	1499277893016
+nil
+------------------------------
+msgID: 1	Source: 15	Target: 10 Port: 9002
+d8:	10	0	0	0
+d16:	6405	0	0	15
+d32:	0	0
+gateway_time:	1499277893131.1
+nil
+------------------------------
+msgID: 2	Source: 11	Target: 10 Port: 9002
+d8:	7	0	0	0
+d16:	1205	0	0	11
+d32:	0	0
+gateway_time:	1499277895236.1
+nil
+------------------------------
+msgID: 2	Source: 12	Target: 10 Port: 9002
+d8:	7	0	0	0
+d16:	1260	0	0	12
+d32:	0	0
+gateway_time:	1499277895431.4
+nil
+------------------------------
+msgID: 2	Source: 13	Target: 10 Port: 9002
+d8:	7	0	0	0
+d16:	1103	0	0	13
+d32:	0	0
+gateway_time:	1499277895575.9
+nil
+------------------------------
+msgID: 2	Source: 14	Target: 10 Port: 9002
+d8:	7	0	0	0
+d16:	758	0	0	14
+d32:	0	0
+gateway_time:	1499277895781.1
+nil
+------------------------------
+msgID: 2	Source: 15	Target: 10 Port: 9002
+d8:	7	0	0	0
+d16:	123	0	0	15
+d32:	0	0
+gateway_time:	1499277895880.5
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	11	0	0	0
+d16:	6782	0	0	11
+d32:	0	0
+gateway_time:	1499277897381.6
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	11	0	0	0
+d16:	6971	0	0	12
+d32:	0	0
+gateway_time:	1499277897536
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	11	0	0	0
+d16:	6589	0	0	13
+d32:	0	0
+gateway_time:	1499277897701.2
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	11	0	0	0
+d16:	6471	0	0	14
+d32:	0	0
+gateway_time:	1499277897906.4
+nil
+------------------------------
+msgID: 1	Source: 15	Target: 10 Port: 9002
+d8:	11	0	0	0
+d16:	6405	0	0	15
+d32:	0	0
+gateway_time:	1499277898026.1
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	12	0	0	0
+d16:	6774	0	0	11
+d32:	0	0
+gateway_time:	1499277902266.7
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	12	0	0	0
+d16:	6960	0	0	12
+d32:	0	0
+gateway_time:	1499277902416.8
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	12	0	0	0
+d16:	6586	0	0	13
+d32:	0	0
+gateway_time:	1499277902581.4
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	12	0	0	0
+d16:	6468	0	0	14
+d32:	0	0
+gateway_time:	1499277902781.2
+nil
+------------------------------
+msgID: 1	Source: 15	Target: 10 Port: 9002
+d8:	12	0	0	0
+d16:	6404	0	0	15
+d32:	0	0
+gateway_time:	1499277902897
+nil
+------------------------------
+msgID: 2	Source: 11	Target: 10 Port: 9002
+d8:	8	0	0	0
+d16:	1162	0	0	11
+d32:	0	0
+gateway_time:	1499277903056.7
+nil
+------------------------------
+msgID: 2	Source: 12	Target: 10 Port: 9002
+d8:	8	0	0	0
+d16:	1218	0	0	12
+d32:	0	0
+gateway_time:	1499277903242.3
+nil
+------------------------------
+msgID: 2	Source: 13	Target: 10 Port: 9002
+d8:	8	0	0	0
+d16:	990	0	0	13
+d32:	0	0
+gateway_time:	1499277903381.7
+nil
+------------------------------
+msgID: 2	Source: 14	Target: 10 Port: 9002
+d8:	8	0	0	0
+d16:	622	0	0	14
+d32:	0	0
+gateway_time:	1499277903586
+nil
+------------------------------
+msgID: 2	Source: 15	Target: 10 Port: 9002
+d8:	8	0	0	0
+d16:	103	0	0	15
+d32:	0	0
+gateway_time:	1499277903703
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	13	0	0	0
+d16:	6768	0	0	11
+d32:	0	0
+gateway_time:	1499277907147.7
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	13	0	0	0
+d16:	6932	0	0	12
+d32:	0	0
+gateway_time:	1499277907296.1
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	13	0	0	0
+d16:	6584	0	0	13
+d32:	0	0
+gateway_time:	1499277907471.1
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	13	0	0	0
+d16:	6464	0	0	14
+d32:	0	0
+gateway_time:	1499277907661.5
+nil
+------------------------------
+msgID: 1	Source: 15	Target: 10 Port: 9002
+d8:	13	0	0	0
+d16:	6404	0	0	15
+d32:	0	0
+gateway_time:	1499277907776.2
+nil
+------------------------------
+msgID: 2	Source: 11	Target: 10 Port: 9002
+d8:	9	0	0	0
+d16:	1156	0	0	11
+d32:	0	0
+gateway_time:	1499277910870.1
+nil
+------------------------------
+msgID: 2	Source: 12	Target: 10 Port: 9002
+d8:	9	0	0	0
+d16:	1216	0	0	12
+d32:	0	0
+gateway_time:	1499277911060.5
+nil
+------------------------------
+msgID: 2	Source: 13	Target: 10 Port: 9002
+d8:	9	0	0	0
+d16:	969	0	0	13
+d32:	0	0
+gateway_time:	1499277911190.3
+nil
+------------------------------
+msgID: 2	Source: 14	Target: 10 Port: 9002
+d8:	9	0	0	0
+d16:	598	0	0	14
+d32:	0	0
+gateway_time:	1499277911400.1
+nil
+------------------------------
+msgID: 2	Source: 15	Target: 10 Port: 9002
+d8:	9	0	0	0
+d16:	95	0	0	15
+d32:	0	0
+gateway_time:	1499277911505.2
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	14	0	0	0
+d16:	6766	0	0	11
+d32:	0	0
+gateway_time:	1499277912035.4
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	14	0	0	0
+d16:	6909	0	0	12
+d32:	0	0
+gateway_time:	1499277912191
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	14	0	0	0
+d16:	6577	0	0	13
+d32:	0	0
+gateway_time:	1499277912360.3
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	14	0	0	0
+d16:	6464	0	0	14
+d32:	0	0
+gateway_time:	1499277912551
+nil
+------------------------------
+msgID: 1	Source: 15	Target: 10 Port: 9002
+d8:	14	0	0	0
+d16:	6403	0	0	15
+d32:	0	0
+gateway_time:	1499277912665.4
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	15	0	0	0
+d16:	6762	0	0	11
+d32:	0	0
+gateway_time:	1499277916915.6
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	15	0	0	0
+d16:	6900	0	0	12
+d32:	0	0
+gateway_time:	1499277917054.8
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	15	0	0	0
+d16:	6574	0	0	13
+d32:	0	0
+gateway_time:	1499277917241.1
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	15	0	0	0
+d16:	6462	0	0	14
+d32:	0	0
+gateway_time:	1499277917429.8
+nil
+------------------------------
+msgID: 1	Source: 15	Target: 10 Port: 9002
+d8:	15	0	0	0
+d16:	6403	0	0	15
+d32:	0	0
+gateway_time:	1499277917555.4
+nil
+------------------------------
+msgID: 2	Source: 11	Target: 10 Port: 9002
+d8:	10	0	0	0
+d16:	1153	0	0	11
+d32:	0	0
+gateway_time:	1499277918680.5
+nil
+------------------------------
+msgID: 2	Source: 12	Target: 10 Port: 9002
+d8:	10	0	0	0
+d16:	1214	0	0	12
+d32:	0	0
+gateway_time:	1499277918870.5
+nil
+------------------------------
+msgID: 2	Source: 13	Target: 10 Port: 9002
+d8:	10	0	0	0
+d16:	959	0	0	13
+d32:	0	0
+gateway_time:	1499277919010
+nil
+------------------------------
+msgID: 2	Source: 14	Target: 10 Port: 9002
+d8:	10	0	0	0
+d16:	593	0	0	14
+d32:	0	0
+gateway_time:	1499277919210
+nil
+------------------------------
+msgID: 2	Source: 15	Target: 10 Port: 9002
+d8:	10	0	0	0
+d16:	94	0	0	15
+d32:	0	0
+gateway_time:	1499277919320.8
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	16	0	0	0
+d16:	6762	0	0	11
+d32:	0	0
+gateway_time:	1499277921795
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	16	0	0	0
+d16:	6898	0	0	12
+d32:	0	0
+gateway_time:	1499277921949.7
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	16	0	0	0
+d16:	6574	0	0	13
+d32:	0	0
+gateway_time:	1499277922129.5
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	16	0	0	0
+d16:	6457	0	0	14
+d32:	0	0
+gateway_time:	1499277922309.5
+nil
+------------------------------
+msgID: 1	Source: 15	Target: 10 Port: 9002
+d8:	16	0	0	0
+d16:	6403	0	0	15
+d32:	0	0
+gateway_time:	1499277922419.3
+nil
+------------------------------
+msgID: 2	Source: 11	Target: 10 Port: 9002
+d8:	11	0	0	0
+d16:	1147	0	0	11
+d32:	0	0
+gateway_time:	1499277926494.4
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	17	0	0	0
+d16:	6761	0	0	11
+d32:	0	0
+gateway_time:	1499277926683.8
+nil
+------------------------------
+msgID: 2	Source: 13	Target: 10 Port: 9002
+d8:	11	0	0	0
+d16:	948	0	0	13
+d32:	0	0
+gateway_time:	1499277926834.1
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	17	0	0	0
+d16:	6572	0	0	13
+d32:	0	0
+gateway_time:	1499277927008.9
+nil
+------------------------------
+msgID: 2	Source: 15	Target: 10 Port: 9002
+d8:	11	0	0	0
+d16:	93	0	0	15
+d32:	0	0
+gateway_time:	1499277927148.8
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	17	0	0	0
+d16:	6456	0	0	14
+d32:	0	0
+gateway_time:	1499277927279
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+nil
+------------------------------
+msgID: 2	Source: 11	Target: 10 Port: 9002
+d8:	1	0	0	0
+d16:	1158	0	0	11
+d32:	0	0
+gateway_time:	1499277945689.3
+nil
+------------------------------
+msgID: 2	Source: 12	Target: 10 Port: 9002
+d8:	1	0	0	0
+d16:	1221	0	0	12
+d32:	0	0
+gateway_time:	1499277945869.3
+nil
+------------------------------
+msgID: 2	Source: 13	Target: 10 Port: 9002
+d8:	1	0	0	0
+d16:	1031	0	0	13
+d32:	0	0
+gateway_time:	1499277946014.9
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	1	0	0	0
+d16:	6877	0	0	12
+d32:	0	0
+gateway_time:	1499277946113
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	1	0	0	0
+d16:	6562	0	0	13
+d32:	0	0
+gateway_time:	1499277946252.9
+nil
+------------------------------
+msgID: 2	Source: 15	Target: 10 Port: 9002
+d8:	1	0	0	0
+d16:	98	0	0	15
+d32:	0	0
+gateway_time:	1499277946423.3
+nil
+------------------------------
+msgID: 1	Source: 15	Target: 10 Port: 9002
+d8:	1	0	0	0
+d16:	6397	0	0	15
+d32:	0	0
+gateway_time:	1499277946607.9
+nil
+------------------------------
+msgID: 1	Source: 11	Target: 10 Port: 9002
+d8:	2	0	0	0
+d16:	6738	0	0	11
+d32:	0	0
+gateway_time:	1499277999585.4
+nil
+------------------------------
+msgID: 1	Source: 12	Target: 10 Port: 9002
+d8:	2	0	0	0
+d16:	6869	0	0	12
+d32:	0	0
+gateway_time:	1499277999735.3
+nil
+------------------------------
+msgID: 1	Source: 13	Target: 10 Port: 9002
+d8:	2	0	0	0
+d16:	6554	0	0	13
+d32:	0	0
+gateway_time:	1499277999904.9
+nil
+------------------------------
+msgID: 1	Source: 14	Target: 10 Port: 9002
+d8:	2	0	0	0
+d16:	6451	0	0	14
+d32:	0	0
+gateway_time:	1499278000115.2
+nil
+------------------------------
+msgID: 2	Source: 11	Target: 10 Port: 9002
+d8:	2	0	0	0
+d16:	1183	0	0	11
+d32:	0	0
+ga

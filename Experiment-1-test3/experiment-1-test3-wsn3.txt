@@ -1,0 +1,211 @@
+ -- listening for messages in port 9004
+ -- connecting to host 192.168.2.128
+nil
+------------------------------
+msgID: 1	Source: 31	Target: 30 Port: 9004
+d8:	2	0	0	0
+d16:	496	0	0	31
+d32:	0	0
+gateway_time:	1499276673844.8
+nil
+------------------------------
+msgID: 1	Source: 32	Target: 30 Port: 9004
+d8:	2	0	0	0
+d16:	493	0	0	32
+d32:	0	0
+gateway_time:	1499276673977.2
+nil
+------------------------------
+msgID: 1	Source: 33	Target: 30 Port: 9004
+d8:	2	0	0	0
+d16:	494	0	0	33
+d32:	0	0
+gateway_time:	1499276674172.6
+nil
+------------------------------
+msgID: 1	Source: 34	Target: 30 Port: 9004
+d8:	2	0	0	0
+d16:	491	0	0	34
+d32:	0	0
+gateway_time:	1499276674327.6
+nil
+------------------------------
+msgID: 2	Source: 31	Target: 30 Port: 9004
+d8:	2	0	0	0
+d16:	986	0	0	31
+d32:	0	0
+gateway_time:	1499276676792.3
+nil
+------------------------------
+msgID: 2	Source: 32	Target: 30 Port: 9004
+d8:	2	0	0	0
+d16:	983	0	0	32
+d32:	0	0
+gateway_time:	1499276676951.9
+nil
+------------------------------
+msgID: 2	Source: 33	Target: 30 Port: 9004
+d8:	2	0	0	0
+d16:	1000	0	0	33
+d32:	0	0
+gateway_time:	1499276677147.2
+nil
+------------------------------
+msgID: 2	Source: 34	Target: 30 Port: 9004
+d8:	2	0	0	0
+d16:	1002	0	0	34
+d32:	0	0
+gateway_time:	1499276677302
+nil
+------------------------------
+msgID: 1	Source: 31	Target: 30 Port: 9004
+d8:	3	0	0	0
+d16:	497	0	0	31
+d32:	0	0
+gateway_time:	1499276727518.1
+nil
+------------------------------
+msgID: 1	Source: 32	Target: 30 Port: 9004
+d8:	3	0	0	0
+d16:	493	0	0	32
+d32:	0	0
+gateway_time:	1499276727682.2
+nil
+------------------------------
+msgID: 1	Source: 33	Target: 30 Port: 9004
+d8:	3	0	0	0
+d16:	494	0	0	33
+d32:	0	0
+gateway_time:	1499276727877.5
+nil
+------------------------------
+msgID: 1	Source: 34	Target: 30 Port: 9004
+d8:	3	0	0	0
+d16:	491	0	0	34
+d32:	0	0
+gateway_time:	1499276728032.5
+nil
+------------------------------
+msgID: 2	Source: 31	Target: 30 Port: 9004
+d8:	3	0	0	0
+d16:	986	0	0	31
+d32:	0	0
+gateway_time:	1499276733431.5
+nil
+------------------------------
+msgID: 2	Source: 32	Target: 30 Port: 9004
+d8:	3	0	0	0
+d16:	983	0	0	32
+d32:	0	0
+gateway_time:	1499276733588.6
+nil
+------------------------------
+msgID: 2	Source: 33	Target: 30 Port: 9004
+d8:	3	0	0	0
+d16:	1000	0	0	33
+d32:	0	0
+gateway_time:	1499276733796.1
+nil
+------------------------------
+msgID: 2	Source: 34	Target: 30 Port: 9004
+d8:	3	0	0	0
+d16:	1002	0	0	34
+d32:	0	0
+gateway_time:	1499276733946.4
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+Unknown AM type
+nil
+------------------------------
+msgID: 1	Source: 31	Target: 30 Port: 9004
+d8:	1	0	0	0
+d16:	497	0	0	31
+d32:	0	0
+gateway_time:	1499276749986.3
+nil
+------------------------------
+msgID: 1	Source: 32	Target: 30 Port: 9004
+d8:	1	0	0	0
+d16:	493	0	0	32
+d32:	0	0
+gateway_time:	1499276750155.4
+nil
+------------------------------
+msgID: 1	Source: 33	Target: 30 Port: 9004
+d8:	1	0	0	0
+d16:	495	0	0	33
+d32:	0	0
+gateway_time:	1499276750350.4
+nil
+------------------------------
+msgID: 2	Source: 33	Target: 30 Port: 9004
+d8:	1	0	0	0
+d16:	1000	0	0	33
+d32:	0	0
+gateway_time:	1499276750451
+nil
+------------------------------
+msgID: 1	Source: 34	Target: 30 Port: 9004
+d8:	1	0	0	0
+d16:	491	0	0	34
+d32:	0	0
+gateway_time:	1499276750539.3
+nil
+------------------------------
