@@ -1,4 +1,11 @@
- -- listening for messages in port 10001
+
+---------------------------------------------------------------------------------------
+LAURA Architecture Project
+Experiment-1 - Test-1
+Raw data receiving from WSN1
+--------------------------------------------------------------------------------------- 
+
+-- listening for messages in port 10001
  -- connecting to host 192.168.2.201
 nil
 ------------------------------

@@ -1,3 +1,10 @@
+
+---------------------------------------------------------------------------------------
+LAURA Architecture Project
+Experiment-1 - Test-1
+Raw data receiving from WSN2
+---------------------------------------------------------------------------------------
+
  -- listening for messages in port 10002
  -- connecting to host 192.168.2.202
 nil

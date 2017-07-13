@@ -1,4 +1,11 @@
- -- listening for messages in port 9003
+
+---------------------------------------------------------------------------------------
+LAURA Architecture Project
+Experiment-1 - Test-3
+Raw data receiving from WSN2
+--------------------------------------------------------------------------------------- 
+
+-- listening for messages in port 9003
  -- connecting to host 192.168.2.128
 nil
 ------------------------------
