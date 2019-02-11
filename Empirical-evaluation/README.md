@@ -1,7 +1,6 @@
 Dear Researcher,
 
-This repository was created to make available the systematic protocol spreadsheet related to the "5. Related works" section of the study:
-
+This repository was created to make available the spreadsheet containing all raw data, tables and some graphics, without exposing confidential data, related to paper:
 "LAURA architecture: Towards a simpler way of building Situation-Aware and Business-Aware final WSN/IoT Applications" which will be submitted to the Journal of Systems and Software.
 
 
