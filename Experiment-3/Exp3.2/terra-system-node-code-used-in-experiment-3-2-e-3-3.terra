@@ -3,7 +3,7 @@
 LAURA Architecture Project
 Terra System node code using TerraNet: Simple routing protocol
 Description: This Terra script (Node code) implements a simple adaptive protocol to gather sensor data. The routing strategy is based on fixed nodes identifier arranged in sequence.
-This is the Node code using in Experiment-1 Test-2 and Test-3
+This is the Node code using in Experiment-3 - 3.2 e 3.3
 ------------------------------------------------------------ 
 Assumptions:
 1) Nodes are arranged in sequence from x0 to x9, where x may be 1..9.
